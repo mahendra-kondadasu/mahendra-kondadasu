@@ -1,5 +1,7 @@
 # Hi there, I'm Mahendra Kondadasu 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=mahendra-kondadasu&color=brightgreen)
+
 I'm a senior software engineer with 4+ years of experience, specializing in backend development using Laravel and Node.js. I also have a passion for DevOps, Linux, and exploring new technologies!
 
 ### 🛠 Tech Stack:
@@ -18,3 +20,11 @@ I'm a senior software engineer with 4+ years of experience, specializing in back
 
 ### ⚡ Fun Facts:
 - I love experimenting with new tools in my free time instead of playing strategy games.
+
+### 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahendra-kondadasu&show_icons=true&theme=radical" alt="My GitHub stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahendra-kondadasu&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+  <img src="https://streak-stats.demolab.com/?user=mahendra-kondadasu&theme=radical" alt="GitHub Streak" height="180px">
+</div>
+
