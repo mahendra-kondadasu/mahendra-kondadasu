@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Mahendra Kondadasu 👋
 
-<!--
-**mahendra-kondadasu/mahendra-kondadasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior software engineer with 4+ years of experience, specializing in backend development using Laravel and Node.js. I also have a passion for DevOps, Linux, and exploring new technologies!
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack:
+- Backend: `Laravel`, `Node.js`, `Express.js`
+- Frontend: `React`, `Redux`, `NextJS`
+- Databases: `PostgreSQL`, `MySQL`, `MongoDB`, `DynamoDB`
+- DevOps: `Serverless`, `AWS`, `Docker`, `Kubernetes`, `Nginx`
+- Tools: `Github Actions`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚧 Current Projects:
+- **Resume Generator**: Building a tool to generate job-relevant resumes using LLMs like OpenAI.
+
+### 📫 How to reach me:
+- Email: mahendraiiitn@gmail.com
+- LinkedIn: [Durga Naga Mahendra Kondadasu](https://www.linkedin.com/in/mahendra-kondadasu/)
+
+### ⚡ Fun Facts:
+- I love experimenting with new tools in my free time instead of playing strategy games.
