@@ -23,8 +23,8 @@ I'm a senior software engineer with 4+ years of experience, specializing in back
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahendra-kondadasu&show_icons=true&theme=radical" alt="My GitHub stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahendra-kondadasu&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
-  <img src="https://streak-stats.demolab.com/?user=mahendra-kondadasu&theme=radical" alt="GitHub Streak" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahendra-kondadasu&show_icons=true&theme=transparent" alt="My GitHub stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahendra-kondadasu&layout=compact&theme=transparant" alt="Top Languages" height="180px"/>
+  <img src="https://streak-stats.demolab.com/?user=mahendra-kondadasu&theme=transparant" alt="GitHub Streak" height="180px">
 </div>
 
